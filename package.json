@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://perci-aceron.github.io/expensetracker-back/",
+  "homepage": "https://perci-aceron.github.io/expensetracker-backend/",
   "type": "module",
   "main": "server.js",
   "scripts": {
